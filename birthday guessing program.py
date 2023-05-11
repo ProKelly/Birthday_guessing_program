@@ -1,6 +1,6 @@
 import os
 name = input("Enter your name: ")
-print(name + " answer the questions bellow for the Artificial intelligence developed by Prince Kelly to gues your bithday\n ")
+print(name + " answer the questions bellow for the program to gues your bithday\n ")
 day = 0
 question1 = '''is your birthday in set 1
  1 3 5 7\n9 11 13 15\n17 19 21 23\n25 27 29 31\n\nEnter 0 for No and 1 for Yes:'''
